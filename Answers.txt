@@ -1,0 +1,13 @@
+1)Router1 G0/0/0 
+2)0010.AAAA.AAAA(Router1 G0/0/0)
+3)Ethernet
+4)Router1 G0/0/0 
+5)0010.AAAA.AAAA(Router1 G0/0/0)
+6)PC2 Mac Address
+7)HDLC
+8)PC2 Mac Address
+9)0010.2222.2222
+10)Ethernet
+11)PC2 Mac Address
+12)0010.2222.2222
+13)Ethernet
